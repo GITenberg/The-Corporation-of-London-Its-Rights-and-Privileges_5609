@@ -1,5 +1,5 @@
 _repo: The-Corporation-of-London-Its-Rights-and-Privileges_5609
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Corporation of London (England) -- Politics and government'
 - !lcc 'JS'
+- GITenberg
 title: The Corporation of London, Its Rights and Privileges
 url: http://www.gutenberg.org/ebooks/5609
